@@ -1,8 +1,6 @@
 /**
  * @name BetterNitro
  * @website https://www.bahadythedeveloper.cf
- * @source https://raw.githubusercontent.com/bahadyxd/betternitro-en/main/betternitro.plugin.js
- * @updateUrl https://raw.githubusercontent.com/bahadyxd/betternitro-en/main/betternitro.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
